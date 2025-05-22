@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 # Hello World!
-## my name is Jeong
+## my name is Brume
 ### Idk what it is
