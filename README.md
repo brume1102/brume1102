@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hello World!
-## my name is Brume
-### Idk what it is
+# Jeong Wootae
+### Hello, I'm... 
